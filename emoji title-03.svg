@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 245 251">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #677c7c;
+        font-family: CascadiaCodeRoman-Bold, 'Cascadia Code';
+        font-size: 14.84px;
+        font-variation-settings: 'wght' 700;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-4 {
+        font-family: CascadiaCode-Regular, 'Cascadia Code';
+        font-size: 10px;
+        font-variation-settings: 'wght' 400;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="122.5" y1="28" x2="122.5" y2="251" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c2c7d8"/>
+      <stop offset=".08" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="122.74" y1="0" x2="122.74" y2="28" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bcd5df"/>
+      <stop offset=".83" stop-color="#f1fafe"/>
+    </linearGradient>
+  </defs>
+  <rect class="cls-1" y="28" width="245" height="223"/>
+  <path class="cls-2" d="M.44,0h244.61c-.05,14.34-.05,21.51,0,28H.44"/>
+  <text class="cls-3" transform="translate(23.3 21.7)"><tspan x="0" y="0">ABOUT</tspan></text>
+  <text class="cls-4" transform="translate(22.25 51.52)"><tspan x="0" y="0">In today’s digital world, it can </tspan><tspan x="0" y="12">be difficult to express how we </tspan><tspan x="0" y="24">truly feel. Mental health </tspan><tspan x="0" y="36">struggles are often hidden behind </tspan><tspan x="0" y="48">or left unspoken. This website </tspan><tspan x="0" y="60">uses emojis as tools for </tspan><tspan x="0" y="72">awareness, giving users a way to </tspan><tspan x="0" y="84">decorate their photos with symbols </tspan><tspan x="0" y="96">that reflect their emotions. By </tspan><tspan x="0" y="108">turning everyday digital language </tspan><tspan x="0" y="120">into a form of self expression, </tspan><tspan x="0" y="132">the site encourages honest </tspan><tspan x="0" y="144">conversations about mental health </tspan><tspan x="0" y="156">and helps reduce stigma.</tspan></text>
+</svg>
